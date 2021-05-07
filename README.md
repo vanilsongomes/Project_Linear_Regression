@@ -1,3 +1,3 @@
-# Project_Linear_Regression_Famat
+# Project_Linear_Regression
 
 Estudo sobre regressão linear e aplicações. 
